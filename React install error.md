@@ -3,5 +3,5 @@
 
 
 # Registry not set
-## to set registry
+## to set registry run
 ### ` npm set registry https://registry.npmjs.org/`
