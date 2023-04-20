@@ -8,14 +8,13 @@
 
 ### Run `choco --v`
 
-Chocolatey install
+### Chocolatey install
 `https://chocolatey.org/install`
 
-if choco command is not defined 
-Now run the following command:
+### Now run the following command:
 `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))`
 
-Now run the following command to install jdk and lts nodejs:
+### Now run the following command to install jdk and lts nodejs:
 `choco install -y nodejs-lts microsoft-openjdk11`
 
 
