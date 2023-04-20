@@ -1,5 +1,7 @@
-## All about setUp Video
+## All about setUp Video and website
 https://www.youtube.com/watch?v=oorfevovPWw&ab_channel=notJust%E2%80%A4dev
+
+https://reactnative.dev/docs/environment-setup?guide=native
 
 ## You will need Node, the React Native command line interface, a JDK, and Android Studio.
 
@@ -17,6 +19,9 @@ https://chocolatey.org/install
 
 ### Now run the following command to install jdk and lts nodejs:
 `choco install -y nodejs-lts microsoft-openjdk11`
+
+### install android studio
+https://developer.android.com/studio
 
 
 
