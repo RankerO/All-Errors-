@@ -1,15 +1,16 @@
 ## All about setUp Video
-`https://www.youtube.com/watch?v=oorfevovPWw&ab_channel=notJust%E2%80%A4dev`
+https://www.youtube.com/watch?v=oorfevovPWw&ab_channel=notJust%E2%80%A4dev
 
 ## You will need Node, the React Native command line interface, a JDK, and Android Studio.
 
 ### For Node js install lts
-`https://nodejs.org/en`
+https://nodejs.org/en
 
-### Run `choco --v`
+### Run 
+`choco --v`
 
 ### Chocolatey install
-`https://chocolatey.org/install`
+https://chocolatey.org/install
 
 ### Now run the following command:
 `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))`
