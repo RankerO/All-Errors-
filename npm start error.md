@@ -5,7 +5,7 @@
 ![Screenshot 2023-03-10 151436](https://user-images.githubusercontent.com/91595780/224282759-49b6db21-85ae-41ea-ae80-98e506e7864b.png)
 
 
-## ________________________________________________________________________
+## _______________________________________________________________
 ![1](https://github.com/RankerO/All-Errors-/assets/91595780/7027dfa3-1a94-4ad2-87d2-ed328f73c531)
 ## To Resolve This 
 ### Update your start script in package.json to use
